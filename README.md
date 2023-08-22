@@ -14,7 +14,7 @@ these practices.**
 
 Begin by reviewing the following concepts using reference material in SQL Zoo.
 
-* [`SELECT`...`JOIN`][join reference1]
+* [`SELECT`...`JOIN`][join reference1] - Done
 
 ## Practice Problems & Quizzes
 
@@ -22,11 +22,11 @@ As you have time, complete the following practice as well. You can come back to
 these during assessment prep.
 
 * Intermediate phase 1: `JOIN` __(30 minutes)__
-  * [`JOIN` Tutorial][join tutorial1]
-  * [`JOIN` Quiz][join quiz1]
+  * [`JOIN` Tutorial][join tutorial1] - Done
+  * [`JOIN` Quiz][join quiz1] - Done
 * Intermediate phase 2: More `JOIN` __(30 minutes)__
-  * [`JOIN` Tutorial][join tutorial2]
-  * [`JOIN` Quiz][join quiz2]
+  * [`JOIN` Tutorial][join tutorial2] - Done
+  * [`JOIN` Quiz][join quiz2] - Done
 
 [join reference1]: https://sqlzoo.net/wiki/SELECT_.._JOIN
 
